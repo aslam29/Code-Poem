@@ -1,0 +1,20 @@
+while(Dennis is alive) {
+
+  while(Dennis is chilling in his tank) {
+    if (Dennis is hungry) {
+      break from the loop because Dennis wants food!
+    }
+
+    Other than that, Dennis is just chilling...
+  }
+
+  Dennis is hungry!
+
+  (Feed Dennis)
+
+  Dennis notices the food and proceed to eat.
+
+  Dennis thanks you! <3
+
+  (Continue on to the next day)
+}
